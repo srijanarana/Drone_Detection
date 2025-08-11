@@ -1,0 +1,7 @@
+names:
+- drone
+nc: 1
+train: /Dataset_Drones/train/images
+val: /Dataset_Drones/valid/images
+
+
